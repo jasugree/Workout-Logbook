@@ -5,7 +5,7 @@ This repo is my first build of a server on my own after learning the step by ste
 
 Below are screenshots of all my working endpoints.
 
-![screenshot](.assets/user_register-success.png)
+![screenshot](./assets/user_register-success.png)
 
 ## Create your folders
 
