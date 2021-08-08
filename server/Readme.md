@@ -7,7 +7,7 @@ Below are screenshots of all my working endpoints.
 ![screenshot](./assets/user_register-success.png)
 ![screenshot](./assets/user_login-success.png)
 ![screenshot](./assets/user_login-fail.png)
-![screenshot](./assets/log-create-sucess.png)
+![screenshot](./assets/log-create-success.png)
 ![screenshot](./assets/log-create-fail.png)
 ![screenshot](./assets/log-view-all.png)
 ![screenshot](./assets/log-view-by-id.png)
