@@ -1,6 +1,11 @@
-# Workout Server
+# Workout Logbook Server Build
 
-If you are getting started on this project We would recommend the following
+==============================
+This repo is my first build of a server on my own after learning the step by step process taught to me by the cirriculum at Eleven Fifty Academy.
+
+Below are screenshots of all my working endpoints.
+
+![screenshot](.assets/user_register-success.png)
 
 ## Create your folders
 

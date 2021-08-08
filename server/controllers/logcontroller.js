@@ -105,7 +105,7 @@ router.delete("/:id", validateSession, (req, res) => {
 			if (log) {
 				res.status(200).json({
 					log: log,
-					message: "Successfully updated the workout.",
+					message: "Successfully deleted the workout.",
 				});
 			} else {
 				res.status(403).json({
