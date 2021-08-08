@@ -12,7 +12,7 @@ Below are screenshots of all my working endpoints:
 
 ![screenshot](./assets/user_register-success.png)
 
-## Loginin - SUCCESS
+## Login - SUCCESS
 
 ![screenshot](./assets/user_login-success.png)
 
